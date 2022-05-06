@@ -1,5 +1,5 @@
 # 📌 Me
-19 years old students, i like learn a lot about systems.
+19 years old student, i like learn a lot about systems.
 =====
 
 ## Skills
