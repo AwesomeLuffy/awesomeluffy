@@ -46,7 +46,7 @@
       <table>
         <tr>
           <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></td>
-          <td><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></td>
+          <td><img src="https://img.shields.io/badge/Nukkit-ED8B00?style=for-the-badge&logo=minecraft&logoColor=white/></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></td>
