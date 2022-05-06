@@ -66,7 +66,6 @@
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/></td>
-          <td><img src="https://img.shields.io/badge/Using-Nukkit-orange.svg"/></td>
         </tr>
       </table>
     </td>
