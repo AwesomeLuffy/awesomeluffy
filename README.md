@@ -52,6 +52,10 @@
           <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></td>
           <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></td>
         </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/discord.py-eded1d?style=for-the-badge&logo=discord&logoColor=white"/></td>
+          <td><img src="https://img.shields.io/badge/opentk-0b79ef?style=for-the-badge&logo=opengl&logoColor=white"/></td>
+        </tr>
       </table>
     </td>
     <td>
