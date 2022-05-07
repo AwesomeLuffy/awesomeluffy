@@ -9,7 +9,7 @@
 <table>
   <tr>
     <th>
-      Software
+      Languages
     </th>
     <th>
       Framework / Libraries
